@@ -2,6 +2,7 @@
 
 Welcome to the Business Intelligence Dashboard repository! This project features a comprehensive set of dashboards designed to provide crucial insights across various business domains including finance, sales, marketing, supply chain, and executive performance.
 
+Dashboard Link : [Click Here](https://app.powerbi.com/view?r=eyJrIjoiMzc3ZDYyODktYzA3ZS00YmNmLWI4YTEtMTFjOTI5NThjOWYxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 **Dashboards Overview**
 
 **Finance View**
