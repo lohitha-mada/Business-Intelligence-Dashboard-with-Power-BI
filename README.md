@@ -4,6 +4,8 @@ Welcome to the Business Intelligence Dashboard repository! This project features
 
 **Dashboard Link** : [Click Here](https://app.powerbi.com/view?r=eyJrIjoiMzc3ZDYyODktYzA3ZS00YmNmLWI4YTEtMTFjOTI5NThjOWYxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
+**LinkedIn Post**      : [Click Here](https://www.linkedin.com/posts/lohithamada_ad-hoc-insights-activity-7259814450466037760-I4bh?utm_source=share&utm_medium=member_desktop)
+
 **Dashboards Overview**
 
 **Finance View**
@@ -37,4 +39,4 @@ Welcome to the Business Intelligence Dashboard repository! This project features
 * Designing easy-to-understand dashboards and maintaining data accuracy
 * Utilizing Power BI services for seamless navigation and data visualization
   
-**[Checkout Certificate]** (https://codebasics.io/certificate/CB-49-291187)
+**Checkout Certificate**: [Click Here](https://codebasics.io/certificate/CB-49-291187)
